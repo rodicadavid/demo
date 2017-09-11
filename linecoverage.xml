@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='simpleMavenProject.Simple' method='f(I)I' number='2'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='f(I)I' number='1'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.SimpleTest' method='testF()V' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='f(I)I' number='3'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='f(I)I' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.SimpleTest' method='&#60;init&#62;()V' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+<test name='simpleMavenProject.SimpleTest.testSquare(simpleMavenProject.SimpleTest)'/>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='square(I)I' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+<test name='simpleMavenProject.SimpleTest.testSquare(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='f(I)I' number='5'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='&#60;init&#62;()V' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testF(simpleMavenProject.SimpleTest)'/>
+<test name='simpleMavenProject.SimpleTest.testSquare(simpleMavenProject.SimpleTest)'/>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.SimpleTest' method='testSquare()V' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testSquare(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='sum(Ljava/util/Collection;)I' number='2'><tests>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='sum(Ljava/util/Collection;)I' number='3'><tests>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='sum(Ljava/util/Collection;)I' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.Simple' method='sum(Ljava/util/Collection;)I' number='1'><tests>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+<block classname='simpleMavenProject.SimpleTest' method='testSum()V' number='0'><tests>
+<test name='simpleMavenProject.SimpleTest.testSum(simpleMavenProject.SimpleTest)'/>
+</tests>
+</block>
+</coverage>
